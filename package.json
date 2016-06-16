@@ -1,0 +1,31 @@
+{
+  "name": "safe-array-child-reader",
+  "version": "1.0.0",
+  "description": "a utility for safely finding an array child based on what children exist",
+  "main": "module.js",
+  "scripts": {
+    "test": "mocha specs/"
+  },
+  "engines": {
+    "node": "6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeite/safe-array-child-reader.git"
+  },
+  "keywords": [
+    "array",
+    "safe",
+    "children"
+  ],
+  "author": "Sam Plews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeite/safe-array-child-reader/issues"
+  },
+  "homepage": "https://github.com/codeite/safe-array-child-reader#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "must": "^0.13.1"
+  }
+}
